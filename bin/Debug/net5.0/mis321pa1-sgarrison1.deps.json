@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "mis321pa1-sgarrison1/1.0.0": {
+        "runtime": {
+          "mis321pa1-sgarrison1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mis321pa1-sgarrison1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/sarahgarrison/mis321pa1-sgarrison1/bin/Debug/net5.0/mis321pa1-sgarrison1.deps.json
+/Users/sarahgarrison/mis321pa1-sgarrison1/bin/Debug/net5.0/mis321pa1-sgarrison1.runtimeconfig.json
+/Users/sarahgarrison/mis321pa1-sgarrison1/bin/Debug/net5.0/mis321pa1-sgarrison1.runtimeconfig.dev.json
+/Users/sarahgarrison/mis321pa1-sgarrison1/bin/Debug/net5.0/mis321pa1-sgarrison1.dll
+/Users/sarahgarrison/mis321pa1-sgarrison1/bin/Debug/net5.0/ref/mis321pa1-sgarrison1.dll
+/Users/sarahgarrison/mis321pa1-sgarrison1/bin/Debug/net5.0/mis321pa1-sgarrison1.pdb
+/Users/sarahgarrison/mis321pa1-sgarrison1/obj/Debug/net5.0/mis321pa1-sgarrison1.csproj.AssemblyReference.cache
+/Users/sarahgarrison/mis321pa1-sgarrison1/obj/Debug/net5.0/mis321pa1-sgarrison1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarahgarrison/mis321pa1-sgarrison1/obj/Debug/net5.0/mis321pa1-sgarrison1.AssemblyInfoInputs.cache
+/Users/sarahgarrison/mis321pa1-sgarrison1/obj/Debug/net5.0/mis321pa1-sgarrison1.AssemblyInfo.cs
+/Users/sarahgarrison/mis321pa1-sgarrison1/obj/Debug/net5.0/mis321pa1-sgarrison1.csproj.CoreCompileInputs.cache
+/Users/sarahgarrison/mis321pa1-sgarrison1/obj/Debug/net5.0/mis321pa1-sgarrison1.dll
+/Users/sarahgarrison/mis321pa1-sgarrison1/obj/Debug/net5.0/ref/mis321pa1-sgarrison1.dll
+/Users/sarahgarrison/mis321pa1-sgarrison1/obj/Debug/net5.0/mis321pa1-sgarrison1.pdb
+/Users/sarahgarrison/mis321pa1-sgarrison1/obj/Debug/net5.0/mis321pa1-sgarrison1.genruntimeconfig.cache
