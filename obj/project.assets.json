@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sarahgarrison/mis321pa1-sgarrison1/mis321pa1-sgarrison1.csproj",
+      "projectUniqueName": "/Users/sarahgarrison/Desktop/MIS 321/CODE/mis321pa1-sgarrison1/mis321pa1-sgarrison1.csproj",
       "projectName": "mis321pa1-sgarrison1",
-      "projectPath": "/Users/sarahgarrison/mis321pa1-sgarrison1/mis321pa1-sgarrison1.csproj",
+      "projectPath": "/Users/sarahgarrison/Desktop/MIS 321/CODE/mis321pa1-sgarrison1/mis321pa1-sgarrison1.csproj",
       "packagesPath": "/Users/sarahgarrison/.nuget/packages/",
-      "outputPath": "/Users/sarahgarrison/mis321pa1-sgarrison1/obj/",
+      "outputPath": "/Users/sarahgarrison/Desktop/MIS 321/CODE/mis321pa1-sgarrison1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sarahgarrison/.nuget/NuGet/NuGet.Config"
