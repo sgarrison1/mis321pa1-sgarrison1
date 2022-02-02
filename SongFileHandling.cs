@@ -44,20 +44,18 @@ namespace mis321pa1_sgarrison1
 
         public static void UpdateDeleted(List<Song> songs, string title)
         {
-            
+            bool found = false;
             foreach( Song x in songs )
             {
-                try
-                {
                    if(x.Title == title)
                    {
+                    found = true;
                     x.IsDeleted = true;
                    }
-                }
-                catch
-                {
-                    System.Console.WriteLine("Invalid Title");
-                }
+            }
+            if(found == false)
+            {
+                System.Console.WriteLine("Invalid Title");
             }
         }
         

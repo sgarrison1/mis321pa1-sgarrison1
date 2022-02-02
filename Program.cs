@@ -70,6 +70,7 @@ namespace mis321pa1_sgarrison1
                 List<Song> songs = SongFileHandling.GetSongs();
                 SongFileHandling.UpdateDeleted(songs, name);
                 SongFileHandling.SaveToFile(songs);
+
                 //System.Console.WriteLine("That song is now deleted");
                 SongReport.PrintAllSongs(songs);
                 
